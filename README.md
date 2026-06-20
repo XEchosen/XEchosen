@@ -1,13 +1,13 @@
-# Hi, I'm Christoforos 👋
+# Christoforos Evangelopoulos
 
 Applied Informatics student at the **University of Macedonia** (Thessaloniki, Greece), heading toward a career in **Business Analysis**. I turn raw data into decisions — and I've also run a real e-commerce store, so I read numbers with a P&L in mind, not just a p-value.
 
-- 🎓 BSc Applied Informatics, UoM (expected 2027)
-- 📊 Focus: data analysis, statistics, and the business questions behind them
-- 🧰 **R · SQL · Excel** · `tidyverse` / `ggplot2` · regression, classification, forecasting, A/B testing
-- 💼 Founded & ran a Shopify e-commerce store (Meta Ads, tracked CPA / ROAS / CTR)
+- BSc Applied Informatics, UoM (expected 2027)
+- Focus: data analysis, statistics, and the business questions behind them
+- **R · SQL · Excel** · `tidyverse` / `ggplot2` · regression, classification, forecasting, A/B testing
+- Founded & ran a Shopify e-commerce store (Meta Ads, tracked CPA / ROAS / CTR)
 
-## 📈 Featured Data-Analysis Projects (R)
+## Featured Data-Analysis Projects (R)
 
 | Project | What it answers | Key result |
 |---------|-----------------|-----------|
@@ -20,17 +20,13 @@ Applied Informatics student at the **University of Macedonia** (Thessaloniki, Gr
 
 Each repo includes the dataset, the full R Markdown analysis, and a README with the business question, method, and findings.
 
-## 🧰 Toolbox
+## Toolbox
 
 **Data & Analytics:** R (tidyverse, ggplot2, forecast, caret), SQL, Excel, statistical modelling
 **Programming:** C, Java, HTML/CSS/JavaScript
 **Other:** Git/GitHub, Shopify, Meta Ads Manager
 
-## 📫 Connect
+## Connect
 
-- 📧 xristoforoseyag@gmail.com
-- 💼 LinkedIn — _coming soon_
-
----
-
-> *"Technology is a means to freedom and better decisions — not an end in itself."*
+- Email: xristoforoseyag@gmail.com
+- LinkedIn: _coming soon_
